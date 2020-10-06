@@ -74,6 +74,8 @@ The approach for the creation of idealized STEM noise and distortions was origin
 
 Note - additional unique ICSD structure prototypes exist and will be added to to this general dataset periodically. For further questions or requests for access to raw MRC outputs from the PRISM simulations, contact [Eric Schwenker](eschwenk@u.northwestern.edu)
 
+## Acknowledgement
+This work was performed at the Center for Nanoscale Materials, a U.S. Department of Energy Office of Science User Facility, and supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357. This material is based upon work supported by Laboratory Directed Research and Development (LDRD) funding from Argonne National Laboratory, provided by the Director, Office of Science, of the U.S. Department of Energy under Contract No. DE-AC02-06CH11357. This research used resources of the National Energy Research Scientific Computing Center, a DOE Office of Science User Facility supported by the Office of Science of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231. We gratefully acknowledge the computing resources provided on Bebop, a high-performance computing cluster operated by the Laboratory Computing Resource Center at Argonne National Laboratory.
 
 ## Citing this dataset 
 
